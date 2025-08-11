@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Aug 2025 20:24:12 at https://riseatseven.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://riseatseven.com/ -O1 "G:\OneDrive\Documenti\GitHub\Rise-At-Seven\Rise At Seven" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:25:31	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansLight.eot (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansLight.eot? (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansLight.ttf (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansLight.svg (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansRegular.eot (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansRegular.eot? (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansRegular.ttf (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansRegular.svg (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansMedium.eot (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansMedium.eot? (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansMedium.ttf (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansMedium.svg (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansSemiBold.eot (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansSemiBold.eot? (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansSemiBold.ttf (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansSemiBold.svg (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansBold.eot (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansBold.eot? (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansBold.ttf (from https://riseatseven.com/)
+20:25:35	Error: 	"Not Found" (404) at link https://riseatseven.com/fonts/SaansBold.svg (from https://riseatseven.com/)
+20:27:19	Error: 	"Not Found" (404) at link https://riseatseven.com/start-a-project/ (from https://riseatseven.com/services/)
+20:27:24	Error: 	"Not Found" (404) at link https://riseatseven.com/services/onsite-seo/www.riseatseven.com/content-experience (from https://riseatseven.com/services/onsite-seo/)
+20:27:24	Error: 	"Not Found" (404) at link https://riseatseven.com/services/onsite-seo/riseatseven.com/digital-pr (from https://riseatseven.com/services/onsite-seo/)
+20:27:24	Error: 	"Not Found" (404) at link https://riseatseven.com/services/onsite-seo/riseatseven.com/content-experience (from https://riseatseven.com/services/onsite-seo/)
+20:27:24	Error: 	"Not Found" (404) at link https://riseatseven.com/services/onsite-seo/riseatseven.com/work/parkdean-resorts-easter-breaks (from https://riseatseven.com/services/onsite-seo/)
+20:27:24	Error: 	"Not Found" (404) at link https://riseatseven.com/services/onsite-seo/riseatseven.com/work/revolution-beauty (from https://riseatseven.com/services/onsite-seo/)
+20:27:25	Error: 	"Not Found" (404) at link https://riseatseven.com/work/onsite-seo/ (from https://riseatseven.com/services/content-experience/)
+20:27:25	Error: 	"Not Found" (404) at link https://riseatseven.com/services/rise-studio/ (from https://riseatseven.com/services/content-experience/)
+20:27:32	Error: 	"Not Found" (404) at link https://riseatseven.com/services/digital-pr/riseatseven.com/connect-with-us (from https://riseatseven.com/services/digital-pr/)
+20:27:41	Warning: 	Moved Permanently for https://riseatseven.com/work/parkdean-sandtone/
+20:27:41	Warning: 	File has moved from https://riseatseven.com/work/parkdean-sandtone/ to https://riseatseven.com/work/parkdean-resorts-easter-breaks/
+20:27:46	Warning: 	Moved Permanently for https://riseatseven.com/work/driving-search-demand-through-tiktok/
+20:27:46	Warning: 	File has moved from https://riseatseven.com/work/driving-search-demand-through-tiktok/ to https://riseatseven.com/work/prettylittlething/
+20:27:57	Warning: 	Moved Permanently for https://riseatseven.com/services/reactive-marketing/
+20:27:57	Warning: 	File has moved from https://riseatseven.com/services/reactive-marketing/ to https://riseatseven.com/services/digital-pr/
+20:28:03	Warning: 	Moved Permanently for https://riseatseven.com/services/social-media/
+20:28:03	Warning: 	File has moved from https://riseatseven.com/services/social-media/ to https://riseatseven.com/services/social/
+20:28:03	Warning: 	Moved Permanently for https://riseatseven.com/services/creative-content/
+20:28:03	Warning: 	File has moved from https://riseatseven.com/services/creative-content/ to https://riseatseven.com/services/content-experience/
+20:28:04	Warning: 	Moved Permanently for https://riseatseven.com/services/the-rise-network/
+20:28:04	Warning: 	File has moved from https://riseatseven.com/services/the-rise-network/ to https://riseatseven.com/services/social/
+20:28:05	Warning: 	Moved Permanently for https://riseatseven.com/services/content-creation-and-influencer/
+20:28:05	Warning: 	File has moved from https://riseatseven.com/services/content-creation-and-influencer/ to https://riseatseven.com/services/social/
+20:28:05	Error: 	"Not Found" (404) at link https://riseatseven.com/content-marketing/digital-pr/ (from https://riseatseven.com/blog/international-seo-strategy/)
+20:28:08	Error: 	"Not Found" (404) at link https://riseatseven.com/technical-seo/ (from https://riseatseven.com/blog/keyword-mapping-guide/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 56 seconds : 620 links scanned, 581 files written (92293962 bytes overall) [75885800 bytes received at 321550 bytes/sec], 27569138 bytes transferred using HTTP compression in 104 files, ratio 16%, 10.6 requests per connection
+(31 errors, 14 warnings, 0 messages)
